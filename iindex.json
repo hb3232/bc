@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "name": "ph",
+      "url": "https://cn.pornhub666.com/enter",
+      "api": "https://cn.pornhub666.com/enter/api",
+      "type": 3,
+      "plugin": "https://cn.pornhub666.com/enter/plugin",
+      "ext": "https://cn.pornhub666.com/enter/ext"
+    }
+  ]
+}
